@@ -27,10 +27,16 @@ int main() {
       break;
     case 7 :
       std::cout << "Squirtle\n";
+      break;
     case 8 :
       std::cout << "Wartotle\n";
+      break;
     case 9 :
       std::cout << "Blastoise\n";
+      break;
+    default :
+    std::cout << "Invalid\n:";
+      break;
  
   
   }
